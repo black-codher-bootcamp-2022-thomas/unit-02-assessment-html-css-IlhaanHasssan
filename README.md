@@ -44,7 +44,7 @@ You must push all the code to this repository. It's advisable to work on your co
 1. React project
 1. Node project
 1. MongoDB project
-1. Personal project
+1. Personal project help 
 
 ## Examples of portfolios
 

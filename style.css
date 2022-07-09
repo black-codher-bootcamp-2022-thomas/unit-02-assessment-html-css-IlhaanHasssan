@@ -98,3 +98,20 @@
     border-bottom-right-radius:0;
     border-bottom-left-radius:0;
   }
+
+
+  .social-media {
+    position: relative;
+    color: black
+  }
+
+  .social-icons {
+    color: black;
+    transform: color 0.3s;
+    margin: 0 10px;
+    padding: auto;
+  }
+
+  .social-icons:hover {
+color:blue;
+  }

@@ -19,7 +19,7 @@
 }
   
       body { 
-          color: rgb(143, 188, 143);
+          color: hwb(0 0% 100%);
           background-color: #ffffff;
           font-family: 'Raleway', sans-serif;
       }
@@ -28,6 +28,7 @@
   div {
     width: 300px;
     margin: auto;
+    display: inline-flexbox;
   }
   
   p {
